@@ -3,7 +3,7 @@
 
 ### Live App: https://pig-game-nu.vercel.app/
 
-![pig-game]()
+![pig-game](pig-game.png)
 
 ## GAME RULES:
 
